@@ -7,8 +7,6 @@ Software Engineer
 Passionate Software Engineer with 5+ years of experience in backend and fullstack development, specializing in building scalable applications and robust systems.
 
 * 🌍  I'm based in São Paulo, Brazil
-* 🖥️  See my portfolio at [andersonpaulino.dev](http://andersonpaulino.dev)
-* ✉️  You can contact me at [anderson.dspaulino@gmail.com](mailto:anderson.dspaulino@gmail.com)
 * �  I'm currently working on microservices architecture and cloud-native applications
 * 🧠  I'm learning Kubernetes and advanced AWS services
 * 🤝  I'm open to collaborating on open source projects and innovative solutions
