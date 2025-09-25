@@ -1,9 +1,6 @@
 Hi 👋 My name is Anderson
 ==========================
 
-Software Engineer
------------------
-
 Passionate Software Engineer with 5+ years of experience in backend and fullstack development, specializing in building scalable applications and robust systems.
 
 * 🌍  I'm based in São Paulo, Brazil
